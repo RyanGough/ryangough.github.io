@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Schedule on My New Hugo Site</title>
+    <link>http://localhost:1313/schedule/</link>
+    <description>Recent content in Schedule on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>British Cycling</title>
-      <link>http://localhost:1313/links/british-cycling/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/links/british-cycling/</guid>
-      <description></description>
-    </item>
+    <atom:link href="http://localhost:1313/schedule/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chaingang</title>
       <link>http://localhost:1313/schedule/chaingang/</link>
@@ -22,32 +15,11 @@
       <description>Chaingang A fast ride with a rotating paceline. Usually followed by a pint in the 3 Greyhounds.&#xA;When Every Thuesday, 18:30&#xA;Start Location Spinney, Knutsford Road&#xA;Distance 35km&#xA;Pace Group A: 35kph+ Group B: 30kph</description>
     </item>
     <item>
-      <title>Facebook</title>
-      <link>http://localhost:1313/links/facebook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/links/facebook/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Instagram</title>
-      <link>http://localhost:1313/links/instagram/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/links/instagram/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Saturday Steady</title>
       <link>http://localhost:1313/schedule/saturday-steady/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/schedule/saturday-steady/</guid>
       <description>Saturday Steady A social &amp;ldquo;no drop&amp;rdquo; ride at a steady pace. Usually flat-ish and with a coffee stop.&#xA;When Every Saturday, 08:00am&#xA;Start Location George &amp;amp; Dragon, Holmes Chapel, 08:00am&#xA;Distance Typically 40-50km&#xA;Pace 21-24kph (13-15mph)</description>
-    </item>
-    <item>
-      <title>Strava</title>
-      <link>http://localhost:1313/links/strava/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/links/strava/</guid>
-      <description></description>
     </item>
     <item>
       <title>Sunday Hilly</title>

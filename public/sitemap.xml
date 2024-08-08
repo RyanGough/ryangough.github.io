@@ -3,18 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-01T22:49:43+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-08-01T22:49:43+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/my-first-blog/</loc>
-    <lastmod>2024-08-01T22:49:43+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/my-second-blog/</loc>
-    <lastmod>2024-08-01T22:49:43+01:00</lastmod>
+    <loc>http://localhost:1313/links/british-cycling/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/links/facebook/</loc>
+  </url><url>
+    <loc>http://localhost:1313/links/instagram/</loc>
+  </url><url>
+    <loc>http://localhost:1313/links/</loc>
+  </url><url>
+    <loc>http://localhost:1313/schedule/saturday-steady/</loc>
+  </url><url>
+    <loc>http://localhost:1313/schedule/</loc>
+  </url><url>
+    <loc>http://localhost:1313/links/strava/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
