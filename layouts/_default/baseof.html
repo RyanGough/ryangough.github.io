@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }}</title>
+    {{ if .Description }}
+    <meta name="description" content="{{ .Description }}">
+    {{ end }}
+    {{ with resources.Get "css/base.css" | minify }}
+    <style>{{ .Content | safeCSS }}</style>
+    {{ end }}
+</head>
+<body>
+    <header>
+	<a href="/"><h1>{{ .Site.Title }}<h1></a>
+    </header>
+    <nav>
+	{{ with site.Menus.main }}
+	{{ range . }}
+	    <a href="{{ .URL }}">{{ .Name }}</a>
+	{{ end }}
+	{{ end }}
+    </nav>
+    <article>
+	{{- block "main" . }}
+	{{- end }}
+    </article>
+    <footer>
+    </footer>
+</body>
+</html>
+

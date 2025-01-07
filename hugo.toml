@@ -1,0 +1,10 @@
+baseURL = 'https://ryangough.github.io/'
+languageCode = 'en-uk'
+title = 'Ryan Gough'
+sectionPagesMenu = 'main'
+pluralizeListTitles = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,0 +1,9 @@
+{{ define "main" }}
+  {{ with (index (where site.RegularPages "Type" "posts").ByDate.Reverse 0) }}
+    <div id="heading">
+	<h2>{{ .Title }}</h2>
+	<p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+    </div>
+    {{ .Content }}
+  {{ end }}
+{{ end }}
