@@ -9,7 +9,7 @@ I did end up writing for a living, but it ended up being of a more prosaic varie
 The kind filled with algorithms and closures rather than similies and metaphors; I'm a software engineer.
 <br/>
 <br/>
-Dreams of being a real writer floated away, but never really left me.
+Dreams of being a real writer floated away, but never fully evaporated.
 I even applied for (and got) a job as a writer on a computing magazine after my first programming job.
 I didn't take it though, due to a combination of the salary offer and my pragmatic / cowardly nature.
 I would occasionally still try and write things, fragments of short stories litter my google drive, all terrible.
