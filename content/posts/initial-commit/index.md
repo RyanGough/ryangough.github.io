@@ -3,7 +3,7 @@ title: Initial Commit
 date: 2025-01-07
 ---
 
-The first thing I cam remember wanting to do as a job is write. 
+The first thing I can remember wanting to do as a job is write. 
 It was probably on the back of getting a glowing report from my primary school teacher for my poem about a tiger.
 I did end up writing for a living, but it ended up being of a more prosaic variety. 
 The kind filled with algorithms and closures rather than similies and metaphors; I'm a software engineer.
