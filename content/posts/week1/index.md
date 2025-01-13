@@ -1,6 +1,8 @@
 ---
 title: Weekly-ish  Update 1
 date: 2025-01-13
+params:
+  bluesky: https://bsky.app/profile/ryangough.com/post/3lfnuzkedsc2z
 ---
 
 ### Freezing
@@ -49,11 +51,4 @@ Been quite happy just to get back into some sort of semi-regular routine tbh, th
 dropped off since the end of November when I was doing regular Zwift time-trials. I tried "Emily's Short Mix" workout and was unable
 to complete it, so I know my FTP has dipped. But still, its a start for 2025, will try and ramp things up
 a bit this week. Struggling with some elbow pain though, for which I'm going to go get some physio.
-
-
-
-
-
-
-
 
