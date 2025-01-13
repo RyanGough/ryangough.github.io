@@ -7,3 +7,11 @@
     {{ .Content }}
   {{ end }}
 {{ end }}
+
+{{ define "footer" }}
+  {{ with (index (where site.RegularPages "Type" "posts").ByDate.Reverse 0) }}
+    {{ if .Params.bluesky }}
+	<p>Comment <a href="{{ .Params.bluesky }}">here</a> if you like</p>
+    {{ end }}
+  {{ end }}
+{{ end }}

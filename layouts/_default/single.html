@@ -5,3 +5,9 @@
     </div>
     {{ .Content }}
 {{ end }}
+
+{{ define "footer" }}
+    {{ if .Params.bluesky }}
+	<p>Comment <a href="{{ .Params.bluesky }}">here</a> if you like</p>
+    {{ end }}
+{{ end }}
