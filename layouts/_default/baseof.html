@@ -12,16 +12,6 @@
     {{ end }}
 </head>
 <body>
-    <header>
-	<a href="/"><h1>{{ .Site.Title }}<h1></a>
-    </header>
-    <nav>
-	{{ with site.Menus.main }}
-	{{ range . }}
-	    <a href="{{ .URL }}">{{ .Name }}</a>
-	{{ end }}
-	{{ end }}
-    </nav>
     <article>
 	{{- block "main" . }}
 	{{- end }}
